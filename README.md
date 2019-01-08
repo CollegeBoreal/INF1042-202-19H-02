@@ -2,9 +2,9 @@
 
 Introduction a la programmation
 
-## [Devoirs](Devoirs)
+## :one: [Devoirs](Devoirs)
 
-## Elements de Performance
+## :two: Elements de Performance
 
 |No| Date   | Cours                   | Intitulé                                |  Commentaires    |
 |--|--------|:------------------------|:----------------------------------------|:-----------------|
@@ -25,7 +25,7 @@ Introduction a la programmation
 |15|19-04-16| Fin des cours           |                                         |                  |
 
 
-## Concepts
+## :three: Concepts:
 
 - Functional Programming
 -Type Inference
@@ -38,7 +38,7 @@ Introduction a la programmation
 ```
 ```
 
-# References:
+# :four: References:
 
 |Site| Lien                                    |
 |--------------------------------|--------|
@@ -48,7 +48,7 @@ Introduction a la programmation
 |Interview Questions .           |https://github.com/Jarlakxen/Scala-Interview-Questions|
 
 
-# Glossaire:
+# :five: Glossaire:
 
 | Principes                       | Lien                                               |
 |---------------------------------|----------------------------------------------------|
