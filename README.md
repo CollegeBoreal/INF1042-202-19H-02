@@ -8,9 +8,9 @@ Introduction a la programmation
 
 |No| Date   | Cours                   | Intitulé                                |  Commentaires    |
 |--|--------|:------------------------|:----------------------------------------|:-----------------|
-| 1|19-01-08|[0.Init](0.Init)         | Introduction a la programmation         |                  |
-| 2|19-01-15|[1.Scaffold](1.Scaffold) | Mon premier Echaffaudage en Play        |                  |
-| 3|19-01-22|[2.oAuth](2.oAuth)       | Mon Login                               |                  |
+| 1|19-01-08|[0.GIT](0.GIT)           | Introduction a la programmation         |                  |
+| 2|19-01-15|                         |                                         |                  |
+| 3|19-01-22|                         |                                         |                  |
 | 4|19-02-29|                         |                                         |                  |
 | 5|19-02-05|                         |                                         |                  |
 | 6|19-02-12|                         |                                         |                  |
@@ -24,12 +24,39 @@ Introduction a la programmation
 |14|19-04-09|                         |                                         |                  |
 |15|19-04-16| Fin des cours           |                                         |                  |
 
+
+## Concepts
+
+- Functional Programming
+-Type Inference
+- GC (Garbage Collector) - Éboueur
+- Immutability (MUTEX)
+- HOF (Higher-Order Function) - pass by value and by name
+- [Data Structure](https://twitter.github.io/scala_school/collections.html)
+- Pattern Matching
+
+```
+```
+
 # References:
 
-|Site                            | Lien                |
-|--------------------------------|---------------------|
-| .                              | https://auth0.com/  |
-| angular development            | https://www.manning.com/books/angular-development-with-typescript-second-edition  |
+|Site| Lien                                    |
+|--------------------------------|--------|
+|Manning Functional Programming in Scala   |[Manning functional-programming-in-scala](https://www.manning.com/books/functional-programming-in-scala)|
+|Companion                       |http://blog.higher-order.com/assets/fpiscompanion.pdf|
+|Exercises                       |https://www.scala-exercises.org/fp_in_scala|
+|Interview Questions .           |https://github.com/Jarlakxen/Scala-Interview-Questions|
 
 
+# Glossaire:
 
+| Principes                       | Lien                                               |
+|---------------------------------|----------------------------------------------------|
+| Lambda Calculus                 |https://en.wikipedia.org/wiki/Lambda_calculus       |
+| Fonction d'ordre supérieur      |https://en.wikipedia.org/wiki/Higher-order_function |
+| Composition de fonctions        |https://en.wikipedia.org/wiki/Function_composition  |
+| What is Category Theory?        |https://www.youtube.com/watch?v=jBkO1eerU8A&list=PL4FD0wu2mjWOtmhJsiVrCpzOAk42uhdz8|
+| Intro to Category Theory (Video)|https://www.youtube.com/watch?v=JH_Ou17_zyU         |
+
+#
+<a href="https://github.com/CollegeBoreal/INF1042-202-19H-02/graphs/contributors">Contrib</a>
