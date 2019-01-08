@@ -31,9 +31,11 @@ $ cd 0.GIT
 
 * Creer un fichier et l'editer (i.e. remplacer monfichier par votre numero d'etudiant)
 ```
-$ vi monfichier.md
+$ nano monfichier.md
 ```
-* pour quitter vi => :wq ou : write quit
+* pour sauvegarder => ^o (touche CTRL o)
+
+* pour quitter => ^x  (touche CTRL x)
 
 * mettre le fichier en scene (add to stage)
 ```
