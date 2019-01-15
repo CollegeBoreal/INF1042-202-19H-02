@@ -9,7 +9,7 @@ Introduction a la programmation
 |No| Date   | Cours                   | Intitulé                                |  Commentaires    |
 |--|--------|:------------------------|:----------------------------------------|:-----------------|
 | 1|19-01-08|[0.GIT](0.GIT)           | Introduction a la programmation         |                  |
-| 2|19-01-15|                         |                                         |                  |
+| 2|19-01-15|[1.Scala](1.Scala)       | Scala                                   |                  |
 | 3|19-01-22|                         |                                         |                  |
 | 4|19-02-29|                         |                                         |                  |
 | 5|19-02-05|                         |                                         |                  |
