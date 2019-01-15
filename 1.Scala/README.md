@@ -1,3 +1,3 @@
 # Scala
 
-[Suivre les instruction](https://github.com/CollegeBoreal/Tutoriels/tree/master/1.Scala)
+[Suivre les instructions](https://github.com/CollegeBoreal/Tutoriels/tree/master/1.Scala)
