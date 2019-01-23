@@ -28,6 +28,7 @@ Introduction a la programmation
 ## :three: Concepts:
 
 - Functional Programming (programmer avec fonctions)
+- pure function
 - Type Inference
 - Referential Transparency (RT)
 - side effetcs
