@@ -27,8 +27,10 @@ Introduction a la programmation
 
 ## :three: Concepts:
 
-- Functional Programming
--Type Inference
+- Functional Programming (programmer avec fonctions)
+- Type Inference
+- Referential Transparency (RT)
+- side effetcs
 - GC (Garbage Collector) - Éboueur
 - Immutability (MUTEX)
 - HOF (Higher-Order Function) - pass by value and by name
