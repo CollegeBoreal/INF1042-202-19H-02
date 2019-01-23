@@ -2,7 +2,7 @@
 
 ## :one: Language
 
-![image](./language.png)
+![image](./images/language.png)
 
 ## :two: Pratique
 
