@@ -9,7 +9,7 @@ Introduction a la programmation
 |No| Date   | Cours                   | Intitulé                                |  Commentaires    |
 |--|--------|:------------------------|:----------------------------------------|:-----------------|
 | 1|19-01-08|[0.GIT](0.GIT)           | Introduction a la programmation         |                  |
-| 2|19-01-15|                         |                                         |                  |
+| 2|19-01-15|[1.Scala](1.Scala)       | Scala                                   |                  |
 | 3|19-01-22|                         |                                         |                  |
 | 4|19-02-29|                         |                                         |                  |
 | 5|19-02-05|                         |                                         |                  |
@@ -27,8 +27,12 @@ Introduction a la programmation
 
 ## :three: Concepts:
 
-- Functional Programming
--Type Inference
+- Functional Programming (programmer avec fonctions)
+- pure function
+- lamba functions (anonymous functions)
+- Type Inference
+- Referential Transparency (RT)
+- side effetcs
 - GC (Garbage Collector) - Éboueur
 - Immutability (MUTEX)
 - HOF (Higher-Order Function) - pass by value and by name
