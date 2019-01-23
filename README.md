@@ -29,6 +29,7 @@ Introduction a la programmation
 
 - Functional Programming (programmer avec fonctions)
 - pure function
+- lamba functions (anonymous functions)
 - Type Inference
 - Referential Transparency (RT)
 - side effetcs
