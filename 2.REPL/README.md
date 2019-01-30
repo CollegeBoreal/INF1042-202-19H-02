@@ -1,9 +1,9 @@
 # REPL, CLI and Programming 
 
 
-![alt tag](./Programming.png)
+![alt tag](./images/Programming.png)
 
-![alt tag](./LifeCycle.png)
+![alt tag](./images/LifeCycle.png)
 
-![alt tag](./Execution.png)
+![alt tag](./images/Execution.png)
 
