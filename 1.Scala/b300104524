@@ -1,0 +1,7 @@
+// Beaucoup de neige!
+/* c est la tempete aujourd'hui */
+/** A documentation comment */
+object MyModule {
+  def abs(n: Int): Int =
+    if (n < 0) -n
+    else n
