@@ -53,7 +53,7 @@ Introduction a la programmation
 |Interview Questions .           |https://github.com/Jarlakxen/Scala-Interview-Questions|
 
 
-# :five: Glossaire:
+# :five: [Glossaire](https://docs.scala-lang.org/glossary/):
 
 | Principes                       | Lien                                               |
 |---------------------------------|----------------------------------------------------|
