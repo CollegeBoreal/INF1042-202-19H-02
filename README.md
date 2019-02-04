@@ -44,13 +44,14 @@ Introduction a la programmation
 
 # :four: References:
 
-|Site| Lien                                    |
-|--------------------------------|--------|
+|Site                                      | Lien                                    |
+|------------------------------------------|----------------------------------------------|
+| Essential Scala                          | https://underscore.io/books/essential-scala/ |
 |Manning Functional Programming in Scala   |[Manning functional-programming-in-scala](https://www.manning.com/books/functional-programming-in-scala)|
-| Coursera ProgFun               | [ProgFun1](https://www.coursera.org/learn/progfun1)
-|Companion                       |http://blog.higher-order.com/assets/fpiscompanion.pdf|
-|Exercises                       |https://www.scala-exercises.org/fp_in_scala|
-|Interview Questions .           |https://github.com/Jarlakxen/Scala-Interview-Questions|
+| Coursera ProgFun                         | [ProgFun1](https://www.coursera.org/learn/progfun1)
+|Companion                                 |http://blog.higher-order.com/assets/fpiscompanion.pdf|
+|Exercises                                 |https://www.scala-exercises.org/fp_in_scala|
+|Interview Questions .                     |https://github.com/Jarlakxen/Scala-Interview-Questions|
 
 
 # :five: [Glossaire](https://docs.scala-lang.org/glossary/):
