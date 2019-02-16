@@ -73,5 +73,5 @@ Introduction a la programmation
 | What is Category Theory?        |https://www.youtube.com/watch?v=jBkO1eerU8A&list=PL4FD0wu2mjWOtmhJsiVrCpzOAk42uhdz8|
 | Intro to Category Theory (Video)|https://www.youtube.com/watch?v=JH_Ou17_zyU         |
 
-# Participation au cours
-<a href="https://github.com/CollegeBoreal/INF1042-202-19H-02/graphs/contributors">Contrib</a>
+# Participation au cours :clap:
+:point_right: <a href="https://github.com/CollegeBoreal/INF1042-202-19H-02/graphs/contributors">Contrib</a>
