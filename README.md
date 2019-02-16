@@ -74,4 +74,4 @@ Introduction a la programmation
 | Intro to Category Theory (Video)|https://www.youtube.com/watch?v=JH_Ou17_zyU         |
 
 # :seven: Participation au cours :clap:
-:point_right: <a href="https://github.com/CollegeBoreal/INF1042-202-19H-02/graphs/contributors">Ceux qui ont contribue au cours</a>
+:trophy: <a href="https://github.com/CollegeBoreal/INF1042-202-19H-02/graphs/contributors">Ceux qui ont contribue au cours</a>
