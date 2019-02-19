@@ -10,7 +10,7 @@ $ cd 5.List
 ````
 
 
-* Creer un projet à partir du patron suivant en utilisant votre :ID:
+* Creer un projet à partir du patron suivant en utilisant votre :id:
 
 
 ````
