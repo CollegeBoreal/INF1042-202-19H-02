@@ -16,3 +16,9 @@ $ cd 5.List
 ````
 $ sbt new CollegeBoreal/scala-list-seed.g8 --name=<Votre ID>
 ````
+
+* changer de répertoire, aller dans votre :id:  en remplacant `<Votre ID>` par votre :id:
+
+````
+$ cd <Votre ID>
+````
