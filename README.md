@@ -13,8 +13,8 @@ Introduction a la programmation
 | 3|19-01-22|[2.REPL](2.REPL)         | REPL et CLI                             |                  |
 | 4|19-02-29|[3.Notions](3.Notions)   |                                         |                  |
 | 5|19-02-05|                         |                                         |                  |
-| 6|19-02-12|                         |                                         |                  |
-| 7|19-02-19|                         |                                         |                  |
+| 6|19-02-12|[4.Vide](4.Vide)         |                                         |                  |
+| 7|19-02-19|[5.List](5.List)         |                                         |                  |
 | 8|19-02-26| March Break             |                                         |                  |
 | 9|19-03-05|                         |                                         |                  |
 |10|19-03-12|                         |                                         |                  |
@@ -44,6 +44,14 @@ Introduction a la programmation
 
 # :four: References:
 
+|Site                                      | Lien                                         |  Commentaires                |
+|------------------------------------------|----------------------------------------------|------------------------------|
+| Scastie                                  | https://scastie.scala-lang.org/              |  Executer son code en ligne  |
+
+
+
+# :five: References:
+
 |Site                                      | Lien                                         |  Commentaires    |
 |------------------------------------------|----------------------------------------------|------------------|
 | Essential Scala                          | https://underscore.io/books/essential-scala/ |                  |
@@ -55,7 +63,7 @@ Introduction a la programmation
 |Interview Questions .                     |https://github.com/Jarlakxen/Scala-Interview-Questions|               |
 
 
-# :five: [Glossaire](https://docs.scala-lang.org/glossary/):
+# :six: [Glossaire](https://docs.scala-lang.org/glossary/):
 
 | Principes                       | Lien                                               |
 |---------------------------------|----------------------------------------------------|
@@ -65,5 +73,5 @@ Introduction a la programmation
 | What is Category Theory?        |https://www.youtube.com/watch?v=jBkO1eerU8A&list=PL4FD0wu2mjWOtmhJsiVrCpzOAk42uhdz8|
 | Intro to Category Theory (Video)|https://www.youtube.com/watch?v=JH_Ou17_zyU         |
 
-#
-<a href="https://github.com/CollegeBoreal/INF1042-202-19H-02/graphs/contributors">Contrib</a>
+# :seven: Participation au cours :clap:
+:trophy: <a href="https://github.com/CollegeBoreal/INF1042-202-19H-02/graphs/contributors">Celles(ux) qui ont contribuent au cours</a>

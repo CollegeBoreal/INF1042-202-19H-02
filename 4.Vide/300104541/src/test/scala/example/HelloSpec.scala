@@ -1,10 +1,9 @@
 package example
 
-
 import org.scalatest._
 
 class HelloSpec extends FlatSpec with Matchers {
-  "Bonjour" should "Bonjour" in {
+  "The Hello object" should "say hello" in {
     Hello.greeting shouldEqual "bonjour"
   }
 }
