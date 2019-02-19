@@ -22,3 +22,19 @@ $ sbt new CollegeBoreal/scala-list-seed.g8 --name=<Votre ID>
 ````
 $ cd <Votre ID>
 ````
+
+
+## sbt
+
+* lancer sbt
+
+````
+$ sbt
+````
+
+* lancer le test
+
+````
+> test
+````
+
