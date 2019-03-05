@@ -22,5 +22,6 @@ https://twitter.github.io/scala_school/collections.html
 * Quelques instructions sur les boucles (loop): for, until, while   
 * Conditions  
 * HOF (Higher Order Function)
+* Pattern Matching
 
 * Affichage a l'ecran:  (println, main)
