@@ -13,8 +13,8 @@ Introduction a la programmation
 | 3|19-01-22|[2.REPL](2.REPL)         | REPL et CLI                             |                  |
 | 4|19-02-29|[3.Notions](3.Notions)   |                                         |                  |
 | 5|19-02-05|                         |                                         |                  |
-| 6|19-02-12|                         |                                         |                  |
-| 7|19-02-19|                         |                                         |                  |
+| 6|19-02-12|[4.Vide](4.Vide)         |                                         |                  |
+| 7|19-02-19|[5.List](5.List)         |                                         |                  |
 | 8|19-02-26| March Break             |                                         |                  |
 | 9|19-03-05|                         |                                         |                  |
 |10|19-03-12|                         |                                         |                  |
@@ -61,6 +61,7 @@ Introduction a la programmation
 |Functional Programming for Mortals with Scalaz | https://leanpub.com/fpmortals                   | :blue_book: Book              |
 | Coursera ProgFun                         | [ProgFun1](https://www.coursera.org/learn/progfun1)  |               |
 |Interview Questions .                     |https://github.com/Jarlakxen/Scala-Interview-Questions|               |
+| Programming Paradigm                     | http://hiperc.buffalostate.edu/courses/ACM612-F15/uploads/ACM612/VanRoy-Programming.pdf |
 
 
 # :six: [Glossaire](https://docs.scala-lang.org/glossary/):
