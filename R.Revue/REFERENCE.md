@@ -8,7 +8,7 @@ Structure de Données:
 https://twitter.github.io/scala_school/collections.html
 
 
-* Classification de Scala:  
+* Classification de languages: [2.REPL](../2.REPL)  
 * Type de variables: Chaine De Characteres, Characteres  
 * Affichage a l'ecran:  
 * Type d'operation arithmetique  
