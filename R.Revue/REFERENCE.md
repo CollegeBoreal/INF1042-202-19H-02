@@ -4,17 +4,23 @@
 Scala:  
 [B.Scala](../B.Scala)
 
+
+
+* Classification de languages: [2.REPL](../2.REPL)  
+* Cycle SDLC  
+
+* Création de type en Scala?  
+* Déclaration de variables  
+
+* Type de variables: Chaine De Characteres, Characteres  
+* Type d'operation arithmetique  
+
 Structure de Données:  
 https://twitter.github.io/scala_school/collections.html
 
 
-* Classification de languages: [2.REPL](../2.REPL)  
-* Type de variables: Chaine De Characteres, Characteres  
-* Affichage a l'ecran:  
-* Type d'operation arithmetique  
-* Conditions  
-* Cycle SDLC  
-* Création de type en Scala?  
 * Quelques instructions sur les boucles (loop): for, until, while   
+* Conditions  
 * HOF (Higher Order Function)
-* Déclaration de variables  
+
+* Affichage a l'ecran:  (println, main)
