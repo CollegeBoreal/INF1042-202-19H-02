@@ -41,4 +41,14 @@ $ sbt
 
 ## Compléter le code source
 
-* Chapitre 3.5 du Livre Rouge :closed_book:
+* Chapitre 3.5 du Livre Rouge :closed_book: page 45
+
+Faire les exercices: 
+
+- 3.25
+
+- 3.26
+
+- 3.27
+
+- 3.28
