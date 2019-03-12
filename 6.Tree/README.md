@@ -40,3 +40,5 @@ $ sbt
 
 
 ## Compléter le code source
+
+* Chapitre 3.5 du Livre Rouge :closedbook:
