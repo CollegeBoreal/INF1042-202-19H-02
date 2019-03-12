@@ -1,7 +1,7 @@
 # List ADT
 
 
-## Projet LiTreest
+## Projet Tree
 
 * dans le répertoire 6.Tree
 
