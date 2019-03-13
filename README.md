@@ -61,6 +61,7 @@ Introduction a la programmation
 |Functional Programming for Mortals with Scalaz | https://leanpub.com/fpmortals                   | :blue_book: Book              |
 | Coursera ProgFun                         | [ProgFun1](https://www.coursera.org/learn/progfun1)  |               |
 |Interview Questions .                     |https://github.com/Jarlakxen/Scala-Interview-Questions|               |
+| Programming Paradigm                     | http://hiperc.buffalostate.edu/courses/ACM612-F15/uploads/ACM612/VanRoy-Programming.pdf |
 
 
 # :six: [Glossaire](https://docs.scala-lang.org/glossary/):
