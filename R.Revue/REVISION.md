@@ -1,5 +1,7 @@
 # Revision
 
+Lire les chapitres du livre :
+
 https://underscore.io/books/essential-scala/
 
   2 - Expressions, Types, and Values
