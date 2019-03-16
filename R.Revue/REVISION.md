@@ -6,7 +6,7 @@ https://underscore.io/books/essential-scala/
 
   2 - Expressions (Literals), Types, and Values
 
-  3 - Objects and Classes
+  3 - Objects, Classes and Methods
 
   4 - Modelling Data with Traits
 
