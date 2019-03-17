@@ -18,7 +18,7 @@ Introduction a la programmation
 | 8|19-02-26| March Break             |                                         |                  |
 | 9|19-03-05|                         |                                         |                  |
 |10|19-03-12|[6.Tree](6.Tree)         |                                         |                  |
-|11|19-03-19|[7.Essential](7.Essential)|                                         |                  |
+|11|19-03-19|[7.Essential](7.Essential)|  Retour aux [3.Notions](3.Notions) essentielles |                  |
 |12|19-03-26|                         |                                         |                  |
 |13|19-04-02|                         |                                         |                  |
 |14|19-04-09|                         |                                         |                  |
