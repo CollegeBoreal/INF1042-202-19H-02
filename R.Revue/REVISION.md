@@ -9,6 +9,8 @@ https://underscore.io/books/essential-scala/
   3 - Objects (all values), Classes, Methods and Fields
 
   4 - Modelling Data with Traits
+  
+[../E.Essential]
 
 
 
