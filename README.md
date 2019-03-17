@@ -54,7 +54,7 @@ Introduction a la programmation
 
 |Site                                      | Lien                                         |  Commentaires    |
 |------------------------------------------|----------------------------------------------|------------------|
-| Essential Scala                          | https://underscore.io/books/essential-scala/ | :ledger:         |
+| Essential Scala                          | https://underscore.io/books/essential-scala/ | :ledger: Book    |
 |Manning Functional Programming in Scala   |[Manning functional-programming-in-scala](https://www.manning.com/books/functional-programming-in-scala)| :closed_book: Book             |
 |Companion                                 |http://blog.higher-order.com/assets/fpiscompanion.pdf |               |
 |Exercises                                 |https://www.scala-exercises.org/fp_in_scala           |               |
