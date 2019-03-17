@@ -1,6 +1,6 @@
 # Essential
 
-Revision Pratique de [3.Notions](../3.Notions)
+Revision Pratique des [3.Notions](../3.Notions) du Language Scala
 
 * Creer votre projet avec votre :id: (i.e. 300098957)
 
