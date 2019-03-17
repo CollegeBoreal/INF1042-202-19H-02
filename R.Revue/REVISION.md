@@ -10,7 +10,7 @@ https://underscore.io/books/essential-scala/
 
   4 - Modelling Data with Traits
   
-[../E.Essential]
+(../E.Essential)
 
 
 
