@@ -1,6 +1,6 @@
 # Essential
 
-Revision Pratique des [3.Notions](../3.Notions) du Language Scala
+Revision Pratique des [3.Notions](../3.Notions) du Language Scala a travers le livre [Essential Scala](	https://underscore.io/books/essential-scala/)
 
 * Creer votre projet avec votre :id: (i.e. 300098957)
 
