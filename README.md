@@ -18,7 +18,7 @@ Introduction a la programmation
 | 8|19-02-26| March Break             |                                         |                  |
 | 9|19-03-05|                         |                                         |                  |
 |10|19-03-12|[6.Tree](6.Tree)         |                                         |                  |
-|11|19-03-19|                         |                                         |                  |
+|11|19-03-19|[7.Essential](7.Essential)|  Retour aux [3.Notions](3.Notions) essentielles |                  |
 |12|19-03-26|                         |                                         |                  |
 |13|19-04-02|                         |                                         |                  |
 |14|19-04-09|                         |                                         |                  |
@@ -54,7 +54,7 @@ Introduction a la programmation
 
 |Site                                      | Lien                                         |  Commentaires    |
 |------------------------------------------|----------------------------------------------|------------------|
-| Essential Scala                          | https://underscore.io/books/essential-scala/ |                  |
+| Essential Scala                          | https://underscore.io/books/essential-scala/ | :ledger: Book    |
 |Manning Functional Programming in Scala   |[Manning functional-programming-in-scala](https://www.manning.com/books/functional-programming-in-scala)| :closed_book: Book             |
 |Companion                                 |http://blog.higher-order.com/assets/fpiscompanion.pdf |               |
 |Exercises                                 |https://www.scala-exercises.org/fp_in_scala           |               |
