@@ -39,3 +39,28 @@ Test7.simplified
 Test7.simplified
 Test7.noParameterMethod
 Test7.noParameterMethod
+
+
+
+
+
+
+
+
+
+object Oswald {
+ val couleur = "Black"
+  val food =  "Milk"
+}
+
+object Henderson{
+  val couleur = "Ginger"
+  val food = "Chips"
+
+}
+object Quentin{
+  val couleur = "Blanc"
+  val food = "Curry"
+}
+Henderson.food
+Henderson.type
