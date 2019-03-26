@@ -1,4 +1,4 @@
-bject FirstSteps {
+object FirstSteps {
   println("Welcome to the Scala Worksheet")
 
   if (20>10) "left" else "right"
