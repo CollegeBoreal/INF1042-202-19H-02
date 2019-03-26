@@ -13,7 +13,7 @@
 | Sadissou, Alade Mouhamad Abbas       | 300111671 | :white_check_mark: |
 | Thiam, Cheikh                        | 300111766 | :white_check_mark: |
 | Adechoubou, Olaïtan Machoukouri O.R. | 300112017 | :white_check_mark: |
-| Nsomwe Tshimanga, Joseph Herve       | (300112687) | :white_check_mark: |
+| Nsomwe Tshimanga, Joseph Herve       | [300112687](300112687) | :white_check_mark: |
 | Heri, Djuma                          | 300112917 |       |
 | Victoire, Randah                     | 300113127 |       |
 | Armand, Widby                        | 300113775 |       |
