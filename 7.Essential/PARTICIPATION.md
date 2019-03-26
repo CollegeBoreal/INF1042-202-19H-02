@@ -6,7 +6,7 @@
 | Mian, Amichia Chris an Eric          | 300104541 |                    |  
 | Dorval, Jacques Fabrice              | 300105201 |                    |
 | Chaouche, Abdelkader                 | [300106918](300106918) | :white_check_mark: |
-| E enne, Tochgaly Kitovah J.          | [300107361](300107361) | :white_check_mark: |
+| Etienne, Tochgaly Kitovah J.         | [300107361](300107361) | :white_check_mark: |
 | Fadde, Halima                        | 300108234 |       |
 | Guigma, Didier Sidwende              | [300110500](300110500) | :white_check_mark: |
 | Kayembe, David                       | 300110529 |       |
