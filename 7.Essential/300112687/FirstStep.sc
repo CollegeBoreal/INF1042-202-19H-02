@@ -31,7 +31,7 @@ Test4.hello("Dave")
 
 
 object Test7 {
-  Val simpleField = {
+  val simpleField = {
 
    println("Evaluating simpleField")
     42
@@ -47,3 +47,24 @@ Test7.simpleField
 Test7.simpleField
 Test7.noParameterMethod
 Test7.noParameterMethod
+
+
+
+
+object Oswal {
+
+  val colour = "red "
+  val food = " curry"
+}
+
+object Handerson {
+   val colour = " blanc"
+   val food =  " fufu"
+}
+
+object Quentin{
+  val colour = "jaune"
+  val food = "poisson"
+
+}
+Handerson.food
