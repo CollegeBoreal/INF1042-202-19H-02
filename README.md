@@ -19,7 +19,7 @@ Introduction a la programmation
 | 9|19-03-05|                         |                                         |                  |
 |10|19-03-12|[6.Tree](6.Tree)         |                                         |                  |
 |11|19-03-19|[7.Essential](7.Essential)|  Retour aux [3.Notions](3.Notions) essentielles |                  |
-|12|19-03-26|                         |                                         |                  |
+|12|19-03-26|[8.Class](8.Class)       |                                         |                  |
 |13|19-04-02|                         |                                         |                  |
 |14|19-04-09|                         |                                         |                  |
 |15|19-04-16| Fin des cours           |                                         |                  |
