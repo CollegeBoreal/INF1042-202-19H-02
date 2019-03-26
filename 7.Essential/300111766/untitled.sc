@@ -34,6 +34,24 @@ object Test7 {
 }
 Test7.simplefield
 Test7.simplefield
-Test7.noParameterMethod
-Test7.noParameterMethod
+Test7.nd
+oParameterMethod
+Test7.noParameterMetho
+
+
+object Oswald{
+
+
+}
+object Hederson{
+
+
+}
+object Quetin {
+
+  val colour = "Black"
+  val food = "curry"
+}
+
+Quetin.food
 
