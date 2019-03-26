@@ -39,4 +39,3 @@ Test7.simplified
 Test7.simplified
 Test7.noParameterMethod
 Test7.noParameterMethod
-//Golden
