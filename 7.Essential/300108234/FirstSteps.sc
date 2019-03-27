@@ -52,3 +52,9 @@ object Quentin {
   val colour: String = "Tabby and white"
   val food: String = "Curry"
 }
+
+def square(in: Double): Double = in * in
+assert(square(2.0)==4.0)
+
+git
+
