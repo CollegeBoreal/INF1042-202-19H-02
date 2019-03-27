@@ -41,3 +41,16 @@ Test7.simpleField
 Test7.simpleField
 Test7.noParameterMethod
 Test7.noParameterMethod
+
+object Oswald {
+
+}
+object Henderson {
+
+}
+object Quentin {
+
+  val couleur = "blanc"
+  val food = "curry"
+}
+Quentin.food

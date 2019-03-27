@@ -58,4 +58,8 @@ object Tree {
    */
   def mapViaFold[A, B](t: Tree[A])(f: A => B): Tree[B] = ???
 
+
+
+  def main(args: Array[String]): Unit =
+    println(size(Tree[Leaf](2)));
 }
