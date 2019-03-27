@@ -33,29 +33,30 @@ object Test7 {
   }
 }
 Test7.simplefield
-Test7.simplefield
-Test7.nd
-oParameterMethod
-Test7.noParameterMetho
+Test7.noParameterMethod
 
 
 object Oswald{
-
+  val colour: String = "Black"
+  val food: String = "Milk"
 
 }
+
 object Hederson{
 
+  val colour: String = "Ginger"
+  val food: String = "Chips"
 
 }
+
 object Quetin {
 
-  val colour = "Black"
+  val colour = "Tabby and white"
   val food = "curry"
 }
 
-Quetin.food
 
-def square(in : Double): Double = in * in
-assert(square(in =2.0) == 4.0)
-{1}
+def square(in: Double): Double = in * in
+assert(square(2.0)==4.0)
+def entreeSortie(mot: String)
 
