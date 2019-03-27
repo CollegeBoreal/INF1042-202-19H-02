@@ -39,3 +39,34 @@ Test7.simplified
 Test7.simplified
 Test7.noParameterMethod
 Test7.noParameterMethod
+
+object Oswald {
+  val colour = "black"
+  val food = "Milk"
+}
+
+Oswald.colour
+Oswald.food
+
+
+object Henderson {
+  val colour = "Ginger"
+  val food = "Chips"
+
+}
+
+Henderson.colour
+Henderson.food
+
+
+object Quentin {
+  val colour ="Tabby and white"
+  val food = "Curry"
+}
+
+
+Quentin.colour
+Quentin.food
+
+def square(in: Double): Double = in * in
+assert(square(2.0) == 4.0)
