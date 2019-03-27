@@ -39,3 +39,21 @@ Test7.simplified
 Test7.simplified
 Test7.noParameterMethod
 Test7.noParameterMethod
+
+
+object Oswald {
+  val colour: String = "Black"
+  val food: String = "Milk"
+}
+object Henderson {
+  val colour: String = "Ginger"
+  val food: String = "Chips"
+}
+object Quentin {
+  val colour: String = "Tabby and white"
+  val food: String = "Curry"
+}
+
+def square(in: Double): Double = in * in
+assert(square(2.0)==4.0)
+def entreeSortie(mot: string)
