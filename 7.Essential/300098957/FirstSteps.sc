@@ -8,11 +8,11 @@ object FirstSteps {
 
 object Test7 {
   val simpleField = {
-    println("Eval")
+    println("Evaluating simplefield")
     42
   }
   def noParameterMethod = {
-    println("Eval")
+    println("Evaluating noParameterMethod")
     42
   }
 }
@@ -27,3 +27,21 @@ Test7.noParameterMethod
 
 Test7.noParameterMethod
 
+object Oswald {
+  val colour = "Black"
+  val food = "Milk"
+}
+
+Oswald.colour
+
+def square(in: Double): Double = in * in
+
+assert(square(2.0) == 4.0)
+
+def entreeSortie(mot: String) = mot.length
+
+assert(entreeSortie("LOL") == 3)
+
+"Bonjour Halima".length
+
+{ 1; 2; 3}

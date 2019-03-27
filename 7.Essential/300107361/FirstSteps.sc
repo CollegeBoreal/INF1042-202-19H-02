@@ -60,3 +60,7 @@ object Quentin {
 }
 Quentin.colour
 Quentin.food
+
+def square(in: Double): Double = in * in
+assert(square (in =2.0) == 4.0)
+
