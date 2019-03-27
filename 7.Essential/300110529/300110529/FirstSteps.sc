@@ -26,3 +26,4 @@ Test7.simpleField
 Test7.noParameterMethod
 
 Test7.noParameterMethod
+
