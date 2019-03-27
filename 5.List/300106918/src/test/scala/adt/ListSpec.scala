@@ -1,12 +1,19 @@
 package adt
 
+
+
 import org.scalatest.{FlatSpec, Matchers}
 
+
+
 class ListSpec extends FlatSpec with Matchers {
+
+
 
   "la liste" should "afficher coucou" in {
 
     List.coucou shouldEqual "coucou"
+
   }
 
   "la somme" should "afficher 6" in {
@@ -21,4 +28,10 @@ class ListSpec extends FlatSpec with Matchers {
 
   }
 
-}
+
+  "trouver le premier" should "afficher 3" in {
+
+    List.findFirst(Array("Romeo", "Halima", "David", "Djumaster"), "Djumaster") shouldEqual 3
+
+  }
+

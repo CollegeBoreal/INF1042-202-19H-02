@@ -44,8 +44,13 @@ object Henderson {
 
 }
 object Quetin {
-  
+
 val couleur = "blanc"
 val food = "curry"
 }
 Quetin.food
+
+def square(in: Double): Double =  in * in
+  assert(square(in = 2.0 )  == 4.0 )
+{1, 2, 3}
+
