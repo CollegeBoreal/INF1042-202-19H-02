@@ -54,3 +54,7 @@ object Quentin {
   val food = "curry"
 }
 Quentin.food
+
+def square(in: Double): Double = in * in
+assert(square(2.0)== 4.0)
+def entreesortie(mot: string)
