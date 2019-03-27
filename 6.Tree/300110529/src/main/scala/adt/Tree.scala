@@ -1,24 +1,21 @@
 package adt
 
 sealed trait Tree[+A]
-case class Leaf[A](value: A) extends Tree[A]
+case class Leaf[A](Value: A) extends Tree[A]
 case class Branch[A](left: Tree[A], right: Tree[A]) extends Tree[A]
+
 object Tree {
 
   def size[A](t: Tree[A]): Int = t match {
     case Leaf(_)             => 1
     case Branch(left, right) => size(left) + size(right) + 1
   }
-
   /*
   We're using the method `max` that exists on all `Int` values rather than an explicit `if` expression.
-
   Note how similar the implementation is to `size`. We'll abstract out the common pattern in a later exercise.
    */
-  def maximum(t: Tree[Int]): Int = t match {
-    case Leaf(_)             => 1
-    case Branch(left, right) => maximum(left),  maximum(right)
-  }
+  def maximum(t: Tree[Int]): Int = ???
+
   /*
   Again, note how similar the implementation is to `size` and `maximum`.
    */

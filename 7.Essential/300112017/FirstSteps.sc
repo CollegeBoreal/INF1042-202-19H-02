@@ -41,3 +41,20 @@ Test7.simpleField
 Test7.simpleField
 Test7.noParameterMethod
 Test7.noParameterMethod
+
+object Oswald {
+
+}
+object Henderson {
+
+}
+object Quentin {
+
+  val couleur = "blanc"
+  val food = "curry"
+}
+Quentin.food
+
+def square(in: Double): Double = in * in
+assert(square(2.0)== 4.0)
+def entreesortie(mot: string)
