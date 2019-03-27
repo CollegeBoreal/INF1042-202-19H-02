@@ -1,34 +1,33 @@
+
 object FirstSteps {
-  println("Welcome to the Scala worksheet")
-  1+1
-  if(20 > 10) "left" else "right"
-  println("The ultimate answer is " + 42)
+  println("Bienvenue sur la page de travail scala")
+
+  if (20>10) "left" else "right"
+
+  println("la meilleure reponse est " + 42)
 }
 
 object Test2 {
-  def name: String = "Probably the best object ever"
+  def name: String = " Probably the best object ever "
 }
-
 Test2.name
-// res1: String = Probably the best object ever
+
 
 object Test3 {
-  def hello(name: String)=
-    "Hello " + name
+  def hello(name: String): String = " Hello " + name
 }
-Test3.hello("Noel")
-// res2: String = Hello Noel
+Test3.hello(name = "Adk")
+
 
 object Test4 {
-  val name = "Noel"
+  val name = "Armand Widby "
   def hello(other: String): String =
-    name + " says hi to " + other
+    name + "says bye to " + other
 }
-Test4.hello("Dave")
-// res3: String = Noel says hi to Dave
+Test4.hello(other = "Scala")
 
 object Test7 {
-  val simpleField = {
+  val simplified = {
     println("Evaluating simpleField")
     42
   }
@@ -37,7 +36,31 @@ object Test7 {
     42
   }
 }
-Test7.simpleField
-Test7.simpleField
+Test7.simplified
+Test7.simplified
 Test7.noParameterMethod
 Test7.noParameterMethod
+
+object Oswald {
+  val colour = "Black"
+  val food = "Milk"
+}
+Oswald.colour
+Oswald.food
+
+object Henderson {
+  val colour = "Ginger"
+  val food = "Chips"
+}
+Henderson.colour
+Henderson.food
+
+object Quentin {
+  val colour = "Blanc"
+  val food = "Curry"
+}
+Quentin.colour
+Quentin.food
+
+def square(in: Double): Double = in * in
+assert(square (in =2.0) == 4.0)

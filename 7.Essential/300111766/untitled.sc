@@ -55,3 +55,7 @@ object Quetin {
 
 Quetin.food
 
+def square(in : Double): Double = in * in
+assert(square(in =2.0) == 4.0)
+{1}
+
