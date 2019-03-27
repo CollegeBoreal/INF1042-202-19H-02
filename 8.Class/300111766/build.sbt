@@ -1,6 +1,6 @@
 organization := "my.organisation"
 
-name := "300108234"
+name := "300111766"
 
 description := "Scala App set up to use any Scala application with Scala FMT and Scala Style"
 

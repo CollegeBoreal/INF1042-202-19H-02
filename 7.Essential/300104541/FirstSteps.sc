@@ -63,4 +63,6 @@ object Quentin{
   val food = "Curry"
 }
 Henderson.food
-Henderson.type
+def square(in: Double):  Double = in*in
+
+assert(square(2.0) == 4.0 )

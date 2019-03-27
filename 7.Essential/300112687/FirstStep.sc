@@ -68,3 +68,15 @@ object Quentin{
 
 }
 Handerson.food
+
+
+def square (in:Double ): Double =  in * in
+
+assert (square  (in =2.0) ==4.0 )
+ def entreeSortie(mot : String) : String  = mot.length
+assert (entreeSortie ( mot = "lool") == 3)
+
+"Bonjour Halima".length
+
+
+(1 : 2: 3)
