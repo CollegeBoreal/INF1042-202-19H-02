@@ -36,3 +36,16 @@ Test7.simplefield
 Test7.simplefield
 Test7.noParameterMethod
 Test7.noParameterMethod
+
+
+
+
+
+def square(in: Double): Double =
+  Assert square in2.0 == 4.0
+
+
+
+
+
+
