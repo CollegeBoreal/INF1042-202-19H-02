@@ -29,5 +29,19 @@ class Person_(first: String, last: String) {
  dk.firstName
 dk.name
 
-// exce 3.1.6.1 page 64 65
-// Cats Again
+
+class CAT_(blanc: String, curry: String) {
+  val couleur = "blanc"
+  val food = "curry"
+}
+object Oswald {
+
+}
+
+object Henderson {
+
+}
+object Quetin {
+
+}
+
