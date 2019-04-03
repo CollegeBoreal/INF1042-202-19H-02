@@ -33,3 +33,11 @@ new Person_("Abbas","Sadissou").name
 // Exercice 3.1.6.1 page 64-65
 // Cats, Again
 
+class Cat(colour: String, val food: String)
+
+val Oswald = new Cat(colour = "black", food = "Milk")
+
+Oswald.food
+
+
+
