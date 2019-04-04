@@ -1,6 +1,6 @@
 class Person {
-  val firstName = "Halima"
-  val lastName = "Fadde"
+  val firstName = "Romeo"
+  val lastName = "Mian"
   def name = firstName + " " + lastName
 }
 
