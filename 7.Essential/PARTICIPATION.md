@@ -13,7 +13,7 @@
 |  9     | [Sadissou, Alade Mouhamad Abbas](https://github.com/AbbasSadissou)   | [300111671](300111671) | :white_check_mark:|
 | 10     | [Thiam, Cheikh](https://github.com/Cheikhthiam)                      | [300111766](300111766) | :white_check_mark:|
 | 11     | [Adechoubou, Olaïtan Machoukouri O.R.](https://github.com/ordenrosae)| [300112017](300112017) | :white_check_mark:|
-| 12     | Nsomwe Tshimanga, Joseph Herve       | [300112687](300112687) | :white_check_mark: |
+| 12     | [Nsomwe Tshimanga, Joseph Herve](https://github.com/jthn9022)        | [300112687](300112687) | :white_check_mark:|
 | 13     | Heri, Djuma                          | [300112917](300112917) |                    |
 | 14     | Victoire, Randah                     | [300113127](300113127) |                    |
 | 15     | Armand, Widby                        | [300113775](300113775) |                    |
