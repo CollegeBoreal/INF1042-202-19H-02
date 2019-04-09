@@ -15,7 +15,7 @@
 | 11     | [Adechoubou, Olaïtan Machoukouri O.R.](https://github.com/ordenrosae)| [300112017](300112017) | :x:               |
 | 12     | [Nsomwe Tshimanga, Joseph Herve](https://github.com/jthn9022)        | [300112687](300112687) | :x:               |
 | 13     | [Heri, Djuma](https://github.com/djumaster)                          | [300112917](300112917) | :x:               |
-| 14     | [Victoire, Randah](https://github.com/Futureseven)                   | [300113127](300113127) |                   |
+| 14     | [Victoire, Randah](https://github.com/Futureseven)                   | [300113127](300113127) | :x:               |
 | 15     | [Armand, Widby](https://github.com/widby)                            | [300113775](300113775) |                   |
 
 ## Légende :recycle: 
