@@ -8,7 +8,7 @@
 |  4     | [Chaouche, Abdelkader](https://github.com/AEKchaouche)        | [300106918](300106918) | :white_check_mark: |
 |  5     | [Etienne, Tochgaly Kitovah J.](https://github.com/toch90)     | [300107361](300107361) | :white_check_mark: |
 |  6     | [Fadde, Halima](https://github.com/halimabzn)                 | [300108234](300108234) |                    |
-|  7     | Guigma, Didier Sidwende              | [300110500](300110500) | :white_check_mark: |
+|  7     | [Guigma, Didier Sidwende](https://github.com/didier300110500) | [300110500](300110500) | :white_check_mark: |
 |  8     | Kayembe, David                       | [300110529](300110529) |                    |
 |  9     | Sadissou, Alade Mouhamad Abbas       | [300111671](300111671) | :white_check_mark: |
 | 10     | Thiam, Cheikh                        | [300111766](300111766) | :white_check_mark: |
