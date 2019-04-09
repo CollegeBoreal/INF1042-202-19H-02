@@ -16,4 +16,4 @@
 | 12     | [Nsomwe Tshimanga, Joseph Herve](https://github.com/jthn9022)        | [300112687](300112687) | :white_check_mark:|
 | 13     | [Heri, Djuma](https://github.com/djumaster)                          | [300112917](300112917) |                   |
 | 14     | [Victoire, Randah](https://github.com/Futureseven)                   | [300113127](300113127) |                   |
-| 15     | Armand, Widby                        | [300113775](300113775) |                    |
+| 15     | [Armand, Widby](https://github.com/widby)                            | [300113775](300113775) |                   |
