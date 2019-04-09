@@ -6,7 +6,7 @@
 |  2     | [Mian, Amichia Chris an Eric](https://github.com/Romeomian)   | [300104541](300104541) |                    |  
 |  3     | [Dorval, Jacques Fabrice](https://github.com/BgbgL13)         | [300105201](300105201) |                    |
 |  4     | [Chaouche, Abdelkader](https://github.com/AEKchaouche)        | [300106918](300106918) | :white_check_mark: |
-|  5     | Etienne, Tochgaly Kitovah J.         | [300107361](300107361) | :white_check_mark: |
+|  5     | [Etienne, Tochgaly Kitovah J.](https://github.com/toch90)     | [300107361](300107361) | :white_check_mark: |
 |  6     | Fadde, Halima                        | [300108234](300108234) |                    |
 |  7     | Guigma, Didier Sidwende              | [300110500](300110500) | :white_check_mark: |
 |  8     | Kayembe, David                       | [300110529](300110529) |                    |
