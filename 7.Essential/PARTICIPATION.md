@@ -4,7 +4,7 @@
 |:------:|----------------------------------------------------------------------|------------------------|-------------------|
 |  1     | [Geneus, Echnaideur](https://github.com/Echnaideurgeneus)            | [300104524](300104524) | :white_check_mark:|
 |  2     | [Mian, Amichia Chris an Eric](https://github.com/Romeomian)          | [300104541](300104541) | :white_check_mark:|
-|  3     | [Dorval, Jacques Fabrice](https://github.com/BgbgL13)                | [300105201](300105201) |                   |
+|  3     | [Dorval, Jacques Fabrice](https://github.com/BgbgL13)                | [300105201](300105201) | :white_check_mark:|
 |  4     | [Chaouche, Abdelkader](https://github.com/AEKchaouche)               | [300106918](300106918) | :white_check_mark:|
 |  5     | [Etienne, Tochgaly Kitovah J.](https://github.com/toch90)            | [300107361](300107361) | :white_check_mark:|
 |  6     | [Fadde, Halima](https://github.com/halimabzn)                        | [300108234](300108234) |                   |
