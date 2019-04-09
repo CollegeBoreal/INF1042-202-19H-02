@@ -56,5 +56,4 @@ object Quentin {
 def square(in: Double): Double = in * in
 assert(square(2.0)==4.0)
 
-git
 
