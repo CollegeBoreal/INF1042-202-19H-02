@@ -3,7 +3,7 @@
 | :hash: | Nom                                                           | :id:                   |                    |
 |:------:|---------------------------------------------------------------|------------------------|--------------------|
 |  1     | [Geneus, Echnaideur](https://github.com/Echnaideurgeneus)     | [300104524](300104524) |                    | 
-|  2     | Mian, Amichia Chris an Eric          | [300104541](300104541) |                    |  
+|  2     | [Mian, Amichia Chris an Eric](https://github.com/Romeomian)   | [300104541](300104541) |                    |  
 |  3     | Dorval, Jacques Fabrice              | [300105201](300105201) |                    |
 |  4     | Chaouche, Abdelkader                 | [300106918](300106918) | :white_check_mark: |
 |  5     | Etienne, Tochgaly Kitovah J.         | [300107361](300107361) | :white_check_mark: |
