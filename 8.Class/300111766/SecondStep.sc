@@ -28,3 +28,6 @@ dk.firstName
 dk.name
 // exce 3.1.6,1 page64 65
 //cats Again
+
+class Cat (val colour: String, food: String)
+val Oswald = new Cat (colour = "black", food =" Milk")
