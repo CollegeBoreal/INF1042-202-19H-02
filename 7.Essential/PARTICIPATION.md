@@ -1,4 +1,4 @@
- :recycle: => :white_check_mark: `Pass` :warning: `Warning` :x: `Fail`
+# Participation
 
 | :hash: | Nom                                                                  | :id:                   | :recycle:         |
 |:------:|----------------------------------------------------------------------|------------------------|-------------------|
@@ -17,3 +17,11 @@
 | 13     | [Heri, Djuma](https://github.com/djumaster)                          | [300112917](300112917) |                   |
 | 14     | [Victoire, Randah](https://github.com/Futureseven)                   | [300113127](300113127) |                   |
 | 15     | [Armand, Widby](https://github.com/widby)                            | [300113775](300113775) |                   |
+
+## Legende :recycle: 
+ 
+ :white_check_mark: `Pass` 
+ 
+ :warning: `Warning` 
+ 
+ :x: `Fail`
