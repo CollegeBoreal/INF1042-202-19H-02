@@ -79,3 +79,24 @@ object Timestamp {
 }
 Timestamp(1, 1, 1).seconds
 
+
+
+val parts = "lima fadde".split(" ")
+parts(0)
+parts(1)
+
+
+class Person____(val firstName: String, val lastName: String) {
+  def name: String = s"$firstName $lastName"
+}
+object Person____ {
+  def apply(name: String): Person____ = {
+    val parts = name.split(" ")
+    new Person____(parts(0), parts(1))
+  }
+}
+parts(0)
+parts(1)
+parts
+
+
