@@ -30,3 +30,8 @@ dk.name
 new Person_("Abbas", "Sadissou").name
 //Exercice 3.1.6.1 page 64-65
 //cats, Again
+class Cat(val colour: String, val food: String)
+
+val oswald = new Cat (colour = "Black", food = "Milk")
+
+oswald.food
