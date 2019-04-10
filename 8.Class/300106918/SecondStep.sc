@@ -33,6 +33,7 @@ dk.name
 class CAT_(blanc: String, curry: String) {
   val couleur = "blanc"
   val food = "curry"
+
 }
 object Oswald {
 
@@ -44,4 +45,13 @@ object Henderson {
 object Quetin {
 
 }
+
+
+// Exerc
+// cat
+
+class Cat (val colour: String, food: String)
+
+val oswald = new Cat (colour = " blak ", food = "milk")
+oswald.
 
