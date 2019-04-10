@@ -31,3 +31,16 @@ dk.name
 
 class Cat (val colour: String, food: String)
 val Oswald = new Cat (colour = "black", food =" Milk")
+
+class Person--(val firstName: String, val lastName: String) {
+  def name = firstName + " " + lastName
+
+  val golden = new Person--("zod", "Golden")
+
+  class Adder(amount: Int) {
+    def apply(in: Int): Int = in + amount
+  }
+
+    val ajout = new Adder (amount = 3)
+
+
