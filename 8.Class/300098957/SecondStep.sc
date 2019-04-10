@@ -51,15 +51,14 @@ new Person__("Abbas","Sadissou").name
 
 val halima = new Person__("Halima","Fadde")
 
-class Person___(val firstName: String = "Prenom"
-                 , val lastName: String = "Nom") {
+class Person___(val firstName: String = "Didier", val lastName: String = "Digma") {
   def name = firstName + " " + lastName
 }
 
 // Keyword Parameter
 new Person___(
-  lastName = "Pasterero"
-  , firstName = "Aziz").name
+  lastName = "Pasterero", firstName = "Aziz"
+  ).name
 
 // Default Parameter
 new Person___().name
@@ -93,6 +92,8 @@ object Timestamp {
 
 val t = Timestamp(1,1,1)
 t.seconds
+
+
 
 
 
