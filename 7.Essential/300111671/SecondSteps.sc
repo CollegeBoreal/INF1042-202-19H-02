@@ -4,6 +4,7 @@ class Person {
   def name = firstName + " " + lastName
 }
 
+
 object alien {
   def greet (p: Person) : String =
     "Greeting" + p.firstName + " " + p.lastName
@@ -28,3 +29,9 @@ dk.firstName
 dk.name
 
 new Person_("Abbas", "Sadissou").name
+
+
+class Cat(val colour: String, val food: String)
+val Oswald = new Cat(colour = "Black", food = "Milk")
+val Henderson = new Cat(colour = "Ginger", food = "Chips")
+val Quentin = new Cat(colour = "Tabby and white",food = "Curry")
