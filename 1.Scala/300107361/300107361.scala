@@ -1,11 +1,10 @@
-// Yon Komantè!
+// Yon Komantè an creole!
 /* Yon lot Komantè! */
 /** Yon Komantè sou dokumantasyon */
 object MyModule {
    def abs(n: Int): Int =
       if (n < 0) -n
       else n
-
 
     private def formatAbs(x: Int) = {
        val msg = "The absolute value of %d is %d"

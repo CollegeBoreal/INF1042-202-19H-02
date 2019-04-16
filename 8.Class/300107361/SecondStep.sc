@@ -96,3 +96,22 @@ t.seconds
 val t1 = Timestamp.apply(1,1,2)
 t1.seconds
 
+val parts = "Toch Jay".split(" ")
+parts(0)
+parts(1)
+
+
+class Person____(val firstName: String, val lastName: String) {
+  def name: String = s"$firstName $lastName"
+}
+object Person____ {
+  def apply(name: String): Person____ = {
+    val parts = name.split(" ")
+    new Person____(parts(0), parts(1))
+  }
+}
+parts(0)
+parts(1)
+parts
+
+

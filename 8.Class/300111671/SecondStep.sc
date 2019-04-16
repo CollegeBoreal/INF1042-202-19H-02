@@ -1,12 +1,12 @@
 class Person {
-  val firstName = "Prof"
-  val lastName = "Info"
+  val firstName = "abbas"
+  val lastName = "sadissou"
   def name = firstName + " " + lastName
 }
 
 object alien {
-  def greet(p: Person) =
-    "Greetings " + p.firstName + " " + p.lastName
+  def greet (p: Person) : String =
+    "Greeting" + p.firstName + " " + p.lastName
 }
 
 val br = new Person
@@ -15,29 +15,25 @@ val br2 = new Person
 alien.greet(br)
 alien.greet(br2)
 
-// Constructor
+// constructeur
 class Person_(first: String, last: String) {
   val firstName = first
   val lastName = last
-  def name = firstName + " " + lastName
+  def name: String = firstName + " " + lastName
 }
 
-val dk = new Person_("David", "Kayembe")
+val dk = new Person_("David", "Kaymbe")
 
 dk.firstName
 dk.name
 
-new Person_("Abbas","Sadissou").name
+new Person_("Abbas", "Sadissou").name
 
+class Cat(val colour: String, val food: String)
+val oswald = new Cat("Black", "Milk")
+val henderson = new Cat("Ginger", "Chips")
+val quentin = new Cat("Tabby and white", "Curry")
 
-// Exercice 3.1.6.1 page 64-65
-// Cats, Again
-
-class Cat(colour: String, val food: String)
-
-val Oswald = new Cat(colour = "black", food = "Milk")
-
-Oswald.food
 
 class Person__(val firstName: String, val lastName: String) {
   def name = firstName + " " + lastName
@@ -51,14 +47,14 @@ new Person__("Abbas","Sadissou").name
 
 val halima = new Person__("Halima","Fadde")
 
-class Person___(val firstName: String = "Didier", val lastName: String = "Digma") {
+class Person___(val firstName: String = "Prenom"
+                , val lastName: String = "Nom") {
   def name = firstName + " " + lastName
 }
 
 // Keyword Parameter
-new Person___(
-  lastName = "Pasterero", firstName = "Aziz"
-  ).name
+new Person___(lastName = "Pasterero",
+  firstName = "Aziz").name
 
 // Default Parameter
 new Person___().name
