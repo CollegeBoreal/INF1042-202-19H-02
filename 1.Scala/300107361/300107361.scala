@@ -1,4 +1,4 @@
-// Yon Komantè!
+// Yon Komantè an creole!
 /* Yon lot Komantè! */
 /** Yon Komantè sou dokumantasyon */
 object MyModule {
