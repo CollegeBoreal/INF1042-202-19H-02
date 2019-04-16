@@ -19,4 +19,3 @@ scalacOptions ++= Seq(
   , "-language:postfixOps"
   , "-language:reflectiveCalls"
 )
-
