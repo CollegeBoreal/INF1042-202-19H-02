@@ -19,7 +19,9 @@
 | 15     | [Armand, Widby](https://github.com/widby)                            | [300113775](300113775) | :white_check_mark:|
 
 ## Légende :recycle: 
- 
+
+ :100: `Excellent` 
+
  :white_check_mark: `Pass` 
  
  :warning: `Warning` 
