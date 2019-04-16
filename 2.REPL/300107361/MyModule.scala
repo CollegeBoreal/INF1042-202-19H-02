@@ -25,8 +25,7 @@ object MyModule{
      val msg = "The %s of %d is %d."
      msg.format(name, n, f(n))
    }
- 
-   
+  
    def main(args: Array[String]): Unit = {
       println(formatAbs(-42))
       println(formatFactorial(7))
