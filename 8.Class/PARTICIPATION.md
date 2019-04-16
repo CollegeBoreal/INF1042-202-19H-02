@@ -9,7 +9,7 @@
 |  5     | [Etienne, Tochgaly Kitovah J.](https://github.com/toch90)            | [300107361](300107361) | :100:|
 |  6     | [Fadde, Halima](https://github.com/halimabzn)                        | [300108234](300108234) | :white_check_mark:|
 |  7     | [Guigma, Didier Sidwende](https://github.com/didier300110500)        | [300110500](300110500) | :x:               |
-|  8     | [Kayembe, David](https://github.com/TEC24)                           | [300110529](300110529) | :white_check_mark:|
+|  8     | [Kayembe, David](https://github.com/TEC24)                           | [300110529](300110529) | :x:|
 |  9     | [Sadissou, Alade Mouhamad Abbas](https://github.com/AbbasSadissou)   | [300111671](300111671) | :white_check_mark:|
 | 10     | [Thiam, Cheikh](https://github.com/Cheikhthiam)                      | [300111766](300111766) | :x:               |
 | 11     | [Adechoubou, Olaïtan Machoukouri O.R.](https://github.com/ordenrosae)| [300112017](300112017) | :x:               |
