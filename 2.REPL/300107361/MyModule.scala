@@ -26,6 +26,7 @@ object MyModule{
      msg.format(name, n, f(n))
    }
  
+   
    def main(args: Array[String]): Unit = {
       println(formatAbs(-42))
       println(formatFactorial(7))
