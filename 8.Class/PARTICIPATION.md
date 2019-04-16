@@ -18,12 +18,11 @@
 | 14     | [Victoire, Randah](https://github.com/Futureseven)                   | [300113127](300113127) | :warning:         |
 | 15     | [Armand, Widby](https://github.com/widby)                            | [300113775](300113775) | :white_check_mark:|
 
-## Légende :recycle: 
+## Légende  :recycle:
 
- :100: `Excellent` 
-
- :white_check_mark: `Pass` 
- 
- :warning: `Warning` 
- 
- :x: `Fail`
+| Signe              | Légende       | Commentaires                    |
+|--------------------|---------------|---------------------------------|
+| :100:              | `Excellent`   | Travaux faits dans le détail    |
+| :white_check_mark: | `Pass`        | travaux suivis pendant le cours |
+|  :warning:         | `Warning`     | travaux commencés               |
+|  :x:               | `Fail`        | Travaux non soumis              |
