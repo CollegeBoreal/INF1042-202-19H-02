@@ -20,8 +20,11 @@
 
 ## Légende :recycle: 
  
- :white_check_mark: `Pass` 
- 
- :warning: `Warning` 
- 
- :x: `Fail`
+## Légende  :recycle:
+
+| Signe              | Légende       | Commentaires                    |
+|--------------------|---------------|---------------------------------|
+| :100:              | `Excellent`   | Travaux faits dans le détail    |
+| :white_check_mark: | `Pass`        | travaux suivis pendant le cours |
+|  :warning:         | `Warning`     | travaux commencés               |
+|  :x:               | `Fail`        | Travaux non soumis              |
